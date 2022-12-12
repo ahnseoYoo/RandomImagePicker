@@ -10,6 +10,7 @@ export default function Home() {
 
   return (
     <div className={classes.contents}>
+      <h1>Randomify</h1>
       <InputURL/>
       <EventList />
     </div>
